@@ -47,12 +47,9 @@ nav#navbarMonstera {
 }
 /* midWhole started */
 #midWhole {
-  max-width: 1200px;
-  margin: 0 auto;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
-  position: relative;
 }
 img#imgMain {
   max-width: 400px;
@@ -96,4 +93,7 @@ p.text {
 }
 .midWholePart13Parts div:nth-child(2) {
   margin-left: 20px;
+}
+div#midWholePart1 {
+  margin-left: 85px;
 }
